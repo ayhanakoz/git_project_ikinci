@@ -7,6 +7,8 @@ public class Deneme {
     System.out.println("Herkese Selamlar");
     System.out.println("Nasilsiniz");
     System.out.println("Conflict-Beyhan");
+    System.out.println("qwerty");
+    
 	}
 
 }
